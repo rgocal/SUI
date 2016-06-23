@@ -14,13 +14,13 @@
         name="<wallpaper name">
     -->
 
-    <category name="HTC" >
+    <category name="HTC10 Stock" >
 
         <wallpaper
-            name="Beats"
+            name="Ax"
             author="HTC"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_01.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_01.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_13.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_13.jpg" />
 
         <wallpaper
             name="DNA Energy"
