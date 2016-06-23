@@ -23,46 +23,83 @@
             thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_13.jpg" />
 
         <wallpaper
-            name="DNA Energy"
+            name="10"
             author="HTC"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_02.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_02.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_00.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_00.jpg" />
 
         <wallpaper
-            name="Droid Eye"
+            name="10"
             author="HTC"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_03.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_03.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_01.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_01.jpg" />
 
         <wallpaper
+            name="10"
             author="HTC"
-            name="Aurora"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_04.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_04.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_02.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_02.jpg" />
 
         <wallpaper
+            name="10"
             author="HTC"
-            name="Automn"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_05.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_05.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_03.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_03.jpg" />
 
         <wallpaper
+            name="10"
             author="HTC"
-            name="Blossom"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_06.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_06.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_04.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_04.jpg" />
 
         <wallpaper
+            name="10"
             author="HTC"
-            name="ONE"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_07.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_07.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_05.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_05.jpg" />
 
         <wallpaper
+            name="10"
             author="HTC"
-            name="Granite"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_08.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/DNA_08.jpg" />
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_06.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_06.jpg" />
+            
+            <wallpaper
+            name="10"
+            author="HTC"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_07.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_07.jpg" />
+            
+            <wallpaper
+            name="10"
+            author="HTC"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_08.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_08.jpg" />
+            
+            <wallpaper
+            name="10"
+            author="HTC"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_09.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_09.jpg" />
+            
+            <wallpaper
+            name="10"
+            author="HTC"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_10.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_10.jpg" />
+            
+            <wallpaper
+            name="10"
+            author="HTC"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_11.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_11.jpg" />
+            
+            <wallpaper
+            name="10"
+            author="HTC"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_12.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpaper_12.jpg" />
+            
     </category>
 
     
