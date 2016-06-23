@@ -107,230 +107,131 @@
         
         <wallpaper
             author="Samsung"
-            name="Wallpaper 1"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_1.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_1.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_1.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_1.png" />
         
         <wallpaper
             author="Samsung"
-            name="Wallpaper 2"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_2.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_2.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_2.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_2.png" />
         
         <wallpaper
             author="Samsung"
-            name="Wallpaper 3"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_3.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_3.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_3.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_3.png" />
         
         <wallpaper
             author="Samsung"
-            name="Wallpaper 4"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_4.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_4.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_4.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_4.png" />
         
         <wallpaper
             author="Samsung"
-            name="Wallpaper 5"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_5.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_5.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_5.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_5.png" />
 
         <wallpaper
             author="Samsung"
-            name="Wallpaper 6"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_6.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_6.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_6.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_6.png" />
 
         <wallpaper
             author="Samsung"
-            name="Wallpaper 7"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_7.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_7.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_7.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_7.png" />
 
         <wallpaper
             author="Samsung"
-            name="Wallpaper 8"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_8.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/GAL_8.jpg" />
+            name="G7 Edge"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_8.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_8.png" />
+            
     </category>
     
-    <category name="Motorola X" >
+    <category name="Motorola" >
       
             <wallpaper
-            author="Moto"
-            name="Hello Moto 1"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_01.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_01.jpg" />
+            author="G4"
+            name="Moto"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_1.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_1.jpg" />
 	    
 	    <wallpaper
-            author="Moto"
-            name="Hello Moto 2"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_02.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_02.jpg" />
+            author="G4"
+            name="Moto"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_2.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_2.jpg" />
 	    
 	    <wallpaper
-            author="Moto"
-            name="Hello Moto 3"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_03.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_03.jpg" />
+            author="G4"
+            name="Moto"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_3.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_3.jpg" />
 	    
 	    <wallpaper
-            author="Moto"
-            name="Hello Moto 4"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_04.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_04.jpg" />
-	    
-	    <wallpaper
-            author="Moto"
-            name="Hello Moto 5"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_05.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_05.jpg" />
-
-        <wallpaper
-            author="Moto"
-            name="Hello Moto 6"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_06.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_06.jpg" />
-
-        <wallpaper
-            author="Moto"
-            name="Hello Moto 7"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_07.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_07.jpg" />
-
-        <wallpaper
-            author="Moto"
-            name="Hello Moto 8"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_08.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_08.jpg" />
-
-        <wallpaper
-            author="Moto"
-            name="Hello Moto 9"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_09.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_09.jpg" />
-
-        <wallpaper
-            author="Moto"
-            name="Hello Moto 10"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_10.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTOX_10.jpg" />
+            author="G4"
+            name="Moto"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_4.jpg"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Moto/athene_4.jpg" />
       
       </category>
       
-      <category name="Motorola Droid" >
+      <category name="Sony" >
 	
 	    <wallpaper
-            author="Motorola"
-            name="Wallpaper 1"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_1.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_1.jpg" />
-	    
-	    <wallpaper
-            author="Motorola"
-            name="Wallpaper 2"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_2.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_2.jpg" />
-	    
-	    <wallpaper
-            author="Motorola"
-            name="Wallpaper 3"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_3.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_3.jpg" />
-	    
-	    <wallpaper
-            author="Motorola"
-            name="Wallpaper 4"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_4.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_4.jpg" />
-	    
-	    <wallpaper
-            author="Motorola"
-            name="Wallpaper 5"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_5.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_5.jpg" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_black_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_black_painting.png" />
 
           <wallpaper
-              author="Motorola"
-              name="Wallpaper 6"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_6.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_6.jpg" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_blue_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_blue_painting.png" />
 
           <wallpaper
-              author="Motorola"
-              name="Wallpaper 7"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_7.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_7.jpg" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_white_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_white_painting.png" />
 
           <wallpaper
-              author="Motorola"
-              name="Wallpaper 8"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_8.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_8.jpg" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_green_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_green_painting.png" />
 
           <wallpaper
-              author="Motorola"
-              name="Wallpaper 9"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_9.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_9.jpg" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_lime_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_lime_painting.png" />
 
           <wallpaper
-              author="Motorola"
-              name="Wallpaper 10"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_10.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/MOTO_10.jpg" />
-      
-      </category>
-      
-      <category name="Monthly Picks" >
-	
-	    <wallpaper
-            author="Design"
-            name="Wallpaper 1"
-            url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_01.jpg"
-            thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_01" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_orange_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_orange_painting.png" />
 
           <wallpaper
-              author="Design"
-              name="Wallpaper 2"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_02.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_02" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_rose_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_rose_painting.png" />
 
           <wallpaper
-              author="Design"
-              name="Wallpaper 3"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_03.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_03" />
-
-          <wallpaper
-              author="Design"
-              name="Wallpaper 4"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_04.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_04" />
-
-          <wallpaper
-              author="Design"
-              name="Wallpaper 5"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_05.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_05" />
-
-          <wallpaper
-              author="Design"
-              name="Wallpaper 6"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_06.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_06" />
-
-          <wallpaper
-              author="Design"
-              name="Wallpaper 7"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_07.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_07" />
-
-          <wallpaper
-              author="Design"
-              name="Wallpaper 8"
-              url="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_08.jpg"
-              thumbUrl="https://raw.githubusercontent.com/rgocal/Renovate_Rom/master/Wallpapers/drawable-nodpi/paper_08" />
+            author="X"
+            name="Xperia"
+            url="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_yellow_painting.png"
+            thumbUrl="https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_yellow_painting.png" />
       
       </category>
       
