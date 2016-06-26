@@ -1,16 +1,32 @@
 <news>
+
+<newsitem headline="Soak Test">
+<text>Once the new launcher settings is foeged, il be requesting users for soak testing 11.3. The opportunity will be shared to users in Sapphire UI's Spaces group. Il have more information as it becomes available.</text>
+<date>26 June 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
   
-  <newsitem headline="Papers Maintenance">
-<text>Sapphire Launchers Wallpaper archives will be acting wonky for the next 3 hrs as I make changes to the archives and add new optimal wallpapers to your selection. Report back any bad behavior on google plus.</text>
-<date>23 June 2016</date>
+<newsitem headline="Papers Maintenance Issues">
+<text>Their are reports of the Sapphire wallpaper archives not loading corrwctly or crqshing on loading all wallpapers. This issue is being tracked.</text>
+<date>26 June 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
 </newsitem>
 
-<newsitem headline="Update 11.3 schedule">
-<text>Scheduled for a release near the end of june. 11.3 will feature a large amount of fixes, improvements, material improvements, and a few new tweaks for users to try out. Watch the Google Plus Group feed for previews and suggest feedback before the release.</text>
-<date>20 June 2016</date>
+<newsitem headline="Donations">
+<text>Keys will be seeing a price drop on 11.3 release. This is to help raise money for the project and pay for my future project im raising money to fund. Gaining experience for a bigger project to learn more is our goal. June was actually the worse donation month so we will keep our heads high and continue slowly. The more donations, the higher value, the bigger and faster updates that are polished.</text>
+<date>26 June 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+
+<newsitem headline="Update 11.3 schedule update">
+<text>A nasty dashclock bug has been discovered and is currently being tracked and worked on. This will delay the release of 11.3. I will be taking this opportunity to work on enhancing a few other features because of the delay. As of now, this update is being one of the most polished and big maintenance updates to expect this summer. Regards</text>
+<date>26 June 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
@@ -27,14 +43,6 @@
 <newsitem headline="GocalSD Website Improvements">
 <text>GSD has gone through some visual maintenance. Go ahead and check it out. More visual additions will be added soon as well as an exclusive section for Sapphire Launcher.</text>
 <date>20 June 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="A Special Thanks">
-<text>You've raised over 300 dollars in donations for the month of may in Sapphire UI keys. That is outstanding! Lets make the goal 400 for the month of june. Donations go towards purchasing a new android device that will be supported the next 4 years and new software and equipment for development. We can't have a finished project built with crusty equipment named after my grandfather...Remember to update your experience on Google Play for Sapphire.</text>
-<date>3 June 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
