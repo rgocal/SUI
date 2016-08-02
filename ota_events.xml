@@ -1,5 +1,13 @@
 <news>
 
+<newsitem headline="Its about you">
+<text>A new post awaits for your eyeballs at Gocalsd.weebly.com Taking some time to thank the community for their support, taking some time off of development to relax and something about a new successor launcher going to be released? Go read for yourself!  </text>
+<date>2 August 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+
 <newsitem headline="Onyx Key price drop">
 <text>Prices are now 6.35 for an Onyx License. Thank you for using Sapphire Launcher!</text>
 <date>2 August 2016</date>
@@ -7,7 +15,6 @@
 <technical-details/>
 <image-url/>
 </newsitem>
-
 
 <newsitem headline="Dev Preview 11.3.1">
 <text>Dev Preview build 11.3.1 is now available on xda labs. For more information, check the google plus Group feed</text>
