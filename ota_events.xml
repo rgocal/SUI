@@ -1,15 +1,15 @@
 <news>
 
-<newsitem headline="Its about you">
-<text>A new post awaits for your eyeballs at Gocalsd.weebly.com Taking some time to thank the community for their support, taking some time off of development to relax and something about a new successor launcher going to be released? Go read for yourself!  </text>
-<date>2 August 2016</date>
+<newsitem headline="Reminder">
+<text>Please take the time to read the latest blog on GSD. It has todo with you and the futurw i hold for you. </text>
+<date>7 August 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
 </newsitem>
 
 <newsitem headline="Onyx Key price drop">
-<text>Prices are now 6.35 for an Onyx License. Thank you for using Sapphire Launcher!</text>
+<text>Prices are now 6.35 for an Onyx License. Thank you for using Sapphire Launcher! Your exclusive reward will come in due time... </text>
 <date>2 August 2016</date>
 <description/>
 <technical-details/>
@@ -19,14 +19,6 @@
 <newsitem headline="Dev Preview 11.3.1">
 <text>Dev Preview build 11.3.1 is now available on xda labs. For more information, check the google plus Group feed</text>
 <date>21 July 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="11.3 Dev Preview Build Live">
-<text>You and many can now join the developer preview program and test the 11.3 update of Sapphire Launcher. Many weeks of listening  and thought and a new GUI has been built to allow you to easy build a native launcher experience to your liking. Its not about the premium features, its not about being popular or a top developer pick application, its about listening and working together. Let's build something together. Let's be different. The developer preview of Sapphire Launcher can be accessed through XDA Labs.</text>
-<date>16 July 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
@@ -72,8 +64,8 @@
 <image-url/>
 </newsitem>
 
-<newsitem headline="SUI Papers">
-<text>Wallpapers will be updated on a monthly basis based on top picks of the android communities.</text>
+<newsitem headline="OTA Sapphire Wallpapers">
+<text>Wallpapers will be updated on a priority/request basis based on community needs and wants.</text>
 <date>22 April 2016</date>
 <description/>
 <technical-details/>
