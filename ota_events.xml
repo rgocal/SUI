@@ -1,4 +1,20 @@
 <news>
+  
+<newsitem headline="Premium License Code Redeemers">
+<text>Congratulations to the winners who claimed Premium codes from the code brawl! See you guys next brawl! A perk of joining the Google Plus Sapphire Launcher Group.</text>
+<date>26 August 2016</date>
+<description/>
+<technical-details/>
+<image-url> https://raw.githubusercontent.com/rgocal/Launcher3-1/master/launcher3/src/main/res/mipmap-hdpi/ic_launcher_home.png </image-url>
+</newsitem>
+  
+<newsitem headline="Project Niebieski">
+<text>A new launcher experience will be revealed at the end of 2016 #Sapphyx #Bionx #Sapphire</text>
+<date>26 August 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
 
 <newsitem headline="Update 11.4 Schedule">
 <text>This update is scheduled to roll out near the end of the month or early September.</text>
@@ -10,14 +26,6 @@
 
 <newsitem headline="Sapphire @GSD">
 <text>The Sapphire Launcher page has gone live on GocalSD.Weebly.com head on over to check it out. Maybe one of your homescreen setups made an appearance! Share this page with friends, family and followers to help them get an idea of what Sapphire Launcher is and why it exist.</text>
-<date>23 August 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="Premium License Code Winners">
-<text>Congratulations to the selected premium license winners! Your time has been rewarded and your presence is very much appreciated. Thankyou for using Sapphire Launcher.</text>
 <date>23 August 2016</date>
 <description/>
 <technical-details/>
@@ -40,16 +48,8 @@
 <image-url/>
 </newsitem>
 
-<newsitem headline="Sapphyx Launcher">
-<text>Rumored to be the premium successor or Sapphire Launcher. Development starts in late September</text>
-<date>11 August 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
 <newsitem headline="SUI Backers">
-<text>Grab an Onyx License to show off true backing support. Adds Onyx Subscriber to Sapphire launcher settings subtitle.</text>
+<text>Grab an Onyx License to show off true backing support. Adds Onyx Subscriber to Sapphire launcher settings subtitle. Also gains access to something special in the future.</text>
 <date>22 April 2016</date>
 <description/>
 <technical-details/>
@@ -58,14 +58,6 @@
 
 <newsitem headline="SUI Google Plus">
 <text>Join the Google Plus Group to get in on exclusive sneak peaks, dev previews, and one on one dev support!</text>
-<date>22 April 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="OTA Sapphire Wallpapers">
-<text>Wallpapers will be updated on a priority/request basis based on community needs and wants.</text>
 <date>22 April 2016</date>
 <description/>
 <technical-details/>
