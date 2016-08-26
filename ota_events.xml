@@ -3,9 +3,9 @@
 <newsitem headline="Premium License Code Redeemers">
 <text>Congratulations to the winners who claimed Premium codes from the code brawl! See you guys next brawl! A perk of joining the Google Plus Sapphire Launcher Group.</text>
 <date>26 August 2016</date>
-<description/>
+<description> Test</description>
 <technical-details/>
-<image-url> https://raw.githubusercontent.com/rgocal/Launcher3-1/master/launcher3/src/main/res/mipmap-hdpi/ic_launcher_home.png </image-url>
+<image-url/>
 </newsitem>
   
 <newsitem headline="Project Niebieski">
