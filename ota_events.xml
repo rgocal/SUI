@@ -1,56 +1,24 @@
 <news>
   
-<newsitem headline="Premium License Code Redeemers">
-<text>Congratulations to the winners who claimed Premium codes from the code brawl! See you guys next brawl! A perk of joining the Google Plus Sapphire Launcher Group.</text>
-<date>26 August 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="Project Niebieski">
-<text>A new launcher experience will be revealed at the end of 2016 #Sapphyx #Bionx #Sapphire</text>
-<date>26 August 2016</date>
+<newsitem headline="Notice: Changes to Newsfeed">
+<text>GSD Mobile, a new application of mine launched yesterday. This chrome powered application is a mobile signature of my website GocalSD. In this application, I will be using it's newsfeed to announce new products, promotions and information regarding development and new projects like Sapphyx Launcher. The Sapphire Launcher newsfeed will only retain information related to the project and not anything regarding promotions or un-related. Their howevor will be hints to check out the Google Plus Group for any promotion based event but nothing will be announced in this section. Thank you for time!</text>
+<date>8 September 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
 </newsitem>
 
-<newsitem headline="Update 11.4 Schedule">
-<text>This update is scheduled to roll out near the end of the month or early September.</text>
-<date>23 August 2016</date>
+<newsitem headline="Update 11.4 Schedule *Updated*">
+<text>A recent failure do to the Windows10 Anniversary update has caused problems with my Ubuntu workstation dualboot and has delayed this update further more. The Windows update formatted and removed the Ubuntu partition in my desktop thus delaying development.  Luckily backups were made and no data was lost. 11.4 update will roll out silently when its ready, thank you for understanding and apologies for any inconvenience. 11.4 will also open string translation to community members on github. More information as that becomes available. </text>
+<date>8 September 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
 </newsitem>
 
-<newsitem headline="Sapphire @GSD">
-<text>The Sapphire Launcher page has gone live on GocalSD.Weebly.com head on over to check it out. Maybe one of your homescreen setups made an appearance! Share this page with friends, family and followers to help them get an idea of what Sapphire Launcher is and why it exist.</text>
-<date>23 August 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Update 11.3.15">
-<text>The new update is now available on Google Play and on XDA labs via the Stable branch. A big thankyou to dev previewers making this update possible and putting in an effort to possible request and general feedback on new and exciting tweaks, revamps and more.  More exciting things are in your future. Take the time to update your ratings on google play and post some general thoughts and feedback on Google Plus group!</text>
-<date>14 August 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="User Feedback Program Survey">
-<text>Their is a survey currently available on the Google Plus Community to voluntarily complete. Once complete, plus 1 the post and comment "done" and you will be entered in a Sapphire Launcher Premium license give away. This survery is to help fabricate a more professional future with the community and get some general feedback on our current use of Sapphire Launcher. </text>
-<date>11 August 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="SUI Backers">
-<text>Grab an Onyx License to show off true backing support. Adds Onyx Subscriber to Sapphire launcher settings subtitle. Also gains access to something special in the future.</text>
-<date>22 April 2016</date>
+<newsitem headline="Onyx Kickstarters">
+<text>All Onyx License revenue is now being stored for the purchase of a new Android Studio workspace which will improve Sapphire Launcher development exceedingly.</text>
+<date>8 September 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
