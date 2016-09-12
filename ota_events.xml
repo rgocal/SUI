@@ -1,16 +1,16 @@
 <news>
-  
-<newsitem headline="Notice: Changes to Newsfeed">
-<text>GSD Mobile, a new application of mine launched yesterday. This chrome powered application is a mobile signature of my website GocalSD. In this application, I will be using it's newsfeed to announce new products, promotions and information regarding development and new projects like Sapphyx Launcher. The Sapphire Launcher newsfeed will only retain information related to the project and not anything regarding promotions or un-related. Their howevor will be hints to check out the Google Plus Group for any promotion based event but nothing will be announced in this section. Thank you for time!</text>
-<date>8 September 2016</date>
+
+<newsitem headline="Update and Review Ratings">
+<text>Please take some time to update and review your rating on the latest version of Sapphire Launcher and any License you have purchased. Higher ratings get the launcher noticed, which increases user counts and revenue which increase the likely hood of bigger and better updates.</text>
+<date>12 September 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
 </newsitem>
-
-<newsitem headline="Update 11.4 Schedule *Updated*">
-<text>A recent failure do to the Windows10 Anniversary update has caused problems with my Ubuntu workstation dualboot and has delayed this update further more. The Windows update formatted and removed the Ubuntu partition in my desktop thus delaying development.  Luckily backups were made and no data was lost. 11.4 update will roll out silently when its ready, thank you for understanding and apologies for any inconvenience. 11.4 will also open string translation to community members on github. More information as that becomes available. </text>
-<date>8 September 2016</date>
+  
+<newsitem headline="Update 11.4. 00 Live">
+<text>Download now on google play or xda labs. Caution, Tracking an issue with dark statusbar enabled that borks the widget container while adding widgets to your workspace. Disable tweak to retain momentum. Will be looking for a fix soon.</text>
+<date>12 September 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
