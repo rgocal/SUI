@@ -1,8 +1,16 @@
 <news>
   
-<newsitem headline="12.00 update">
-<text>A scheduled fall update is expected to drop at the end of October (Subject to change). This is a major update that will focus on a numerous amount of bugs. </text>
-<date>11 October 2016</date>
+<newsitem headline="Milestone 3">
+<text>This weekend, we celebrate the lost, the dead and the spooky. We also celebrate 2 years in development and the 3rd Milestone in Sapphire Launcher development. Update 12.00 releases soon. Keep an eye on the Google Plus Group for more information!</text>
+<date>27 October 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
+<newsitem headline="New Wallpapers">
+<text>Check the archives this weekend for new wallpapers collected from the community. Community members are welcomed to submit their own!</text>
+<date>27 October 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
@@ -15,25 +23,9 @@
 <technical-details/>
 <image-url/>
 </newsitem>
-  
-<newsitem headline="Update 11.4. 00 Live">
-<text>Download now on google play or xda labs. Caution, Tracking an issue with dark statusbar enabled that borks the widget container while adding widgets to your workspace. Disable tweak to retain momentum. Will be looking for a fix soon.</text>
-<date>12 September 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
 
 <newsitem headline="Onyx and Premium License Update">
 <text>A scheduled update is due in October for Onyx and Prem license for licensing validation. This action is being taken to verify users for future license cary-over. The license you own will be carried over to other applications to prevent double purchases.</text>
-<date>8 September 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Onyx License Owners">
-<text>An early access awaits you in the future.</text>
 <date>8 September 2016</date>
 <description/>
 <technical-details/>
