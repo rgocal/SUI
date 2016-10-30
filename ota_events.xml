@@ -1,8 +1,24 @@
 <news>
   
-<newsitem headline="Milestone 3">
-<text>This weekend, we celebrate the lost, the dead and the spooky. We also celebrate 2 years in development and the 3rd Milestone in Sapphire Launcher development. Update 12.00 releases soon. Keep an eye on the Google Plus Group for more information!</text>
-<date>27 October 2016</date>
+<newsitem headline="Wanna Translate?">
+<text>If you are a user interested in contributing to the project by translating Sapphire Launcher for your locale, please contact me on Hangouts or the Google Plus Group. Also take a look at the Sapphire Github. https://github.com/rgocal/SUI </text>
+<date>30 October 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
+<newsitem headline="Progress Report!">
+<text>Be sure to update your reviews of Sapphire Launcher on Google Play reflecting your experience with the 12.00 update. Also report back any flaws, spelling errors or hickups you have encountered so a patch can be built. Tablet support is also important.</text>
+<date>30 October 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
+<newsitem headline="Update 12.00 Available!">
+<text>You can grab the latest update for Sapphire Launcher now! https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</text>
+<date>30 October 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
@@ -19,14 +35,6 @@
 <newsitem headline="Update and Review Ratings">
 <text>Please take some time to update and review your rating on the latest version of Sapphire Launcher and any License you have purchased. Higher ratings get the launcher noticed, which increases user counts and revenue which increase the likely hood of bigger and better updates.</text>
 <date>12 September 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Onyx and Premium License Update">
-<text>A scheduled update is due in October for Onyx and Prem license for licensing validation. This action is being taken to verify users for future license cary-over. The license you own will be carried over to other applications to prevent double purchases.</text>
-<date>8 September 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
