@@ -1,2 +1,4 @@
 # SUI
-Misc xml and wallpaper url files for Sapphire Launcher. Nothing in here that is of value for anyone unless you want the url's to my stock wallpaper collection.
+String files for Sapphire Launcher (No source files of the launcher...for now)
+News events xml files
+Wallpaper xml files (if you see a wallpaper that was not properly credited because the Author was unknown, lemme know!
