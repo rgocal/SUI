@@ -1,33 +1,40 @@
 <news>
-
-
-<newsitem headline="Android Workspace Upgrade Needed...">
-<text>The decision was made to delay some projects do to the lack of power my desktop has to outlut the product i wqnt to release. This is because of the memory usage and power needed by Android Studio amd Naugat 64bit processing at high compression. I am accepting donations via Google Wallet and using the funding of Licensed key purchases to back this purchase of a new development workstation. Thank you for your support!</text>
-<date>23 November 2016</date>
+  
+<newsitem headline="Record Breaking Revenue">
+<text>You guys have broken the record of Premium license purchased for the month. This is excellent news! Keep it up! This revenue will be invested in upgraded equipment for my Android Workstation which desperately needs it for the new projects coming. Without these upgrades, these projects won't be possible. THANKYOU!</text>
+<date>5 December 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
+<newsitem headline="Thankyou">
+<text>This phrase says it all. The two years that some of you have fully been dedicated means so much to me as a developer. You will soon see the light of a sequal in the new year. A revised and more powerful launcher is in the works for Android 6.0+. Sapphire Launcher EX is coming in 2017.</text>
+<date>5 December 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
+<newsitem headline="Wallpaper Patch">
+<text>Wallpapers should soon be working correctly in the cloud. A patch is currently being worked on from my end.</text>
+<date>5 December 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
+<newsitem headline="Update 12.1">
+<text>The end of the year patch is currently in development. This update will fix a rotation bug reported by many, increase performance, higher resolution visuals for high end phones increased, visual changes to the launcher settings and a few extras. Updates will also feature less advancment after this update rolls out as well making this launcher nearing its Stable Branch. This is good and bad as updates will be less exciting and only provide security, performance and general patches. Good news is something special will be going in development soon. Stay tuned! Mid December this new update should be ready to roll out.</text>
+<date>5 December 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
 </newsitem>
 
 <newsitem headline="Holiday Sale!">
-<text>Premium and Onyx license will be in Sale starting the end of November through December. This is your chance to lock yourself in to an array of premium projects i have to announce and display for 2017. 2 of these projects are launchers. 1 is the sequel to Sapphire Launcher... Enjoy!</text>
-<date>23 November 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Advancement">
-<text>The end of the year update is currently in progress for Sapphire Launcher. This update is focusing on the weird rotation bug one Pixel, Nexus and One Plus devices that i have caught thus far and reported. I will also be taking the time to patch a few ends and odds for Naugat and improve a few areas of the launcher settings. This update will also be the starting point of a droubt of updates. Its not that support has ended, its just the awakening process of a successor project taking fold. More information will be announced near new years here in the USA. </text>
-<date>23 November 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Wallpaper Archives Error">
-<text>Users have reported that some categories of wallpapers are not loading properly and this issue is being tracked. I have still not corrected this action as it seems to be a glitch in both ends. Please be patient. </text>
-<date>23 November 2016</date>
+<text>Premium and Onyx license are now on Sale through the month of December. This is your chance to lock yourself in to an array of premium projects I have to announce for 2017. Enjoy!</text>
+<date>5 December 2016</date>
 <description/>
 <technical-details/>
 <image-url/>
@@ -40,49 +47,9 @@
 <technical-details/>
 <image-url/>
 </newsitem>
-  
-<newsitem headline="Progress Report!">
-<text>Be sure to update your reviews of Sapphire Launcher on Google Play reflecting your experience with the 12.00 update. Also report back any flaws, spelling errors or hickups you have encountered so a patch can be built. Tablet support is also important.</text>
-<date>30 October 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="Update 12.00 Available!">
-<text>You can grab the latest update for Sapphire Launcher now! https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</text>
-<date>30 October 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="New Wallpapers">
-<text>Check the archives this weekend for new wallpapers collected from the community. Community members are welcomed to submit their own!</text>
-<date>27 October 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Update and Review Ratings">
-<text>Please take some time to update and review your rating on the latest version of Sapphire Launcher and any License you have purchased. Higher ratings get the launcher noticed, which increases user counts and revenue which increase the likely hood of bigger and better updates.</text>
-<date>12 September 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="SUI Google Plus">
-<text>Join the Google Plus Group to get in on exclusive sneak peaks, dev previews, and one on one dev support!</text>
-<date>22 April 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
 
 <newsitem headline="Welcome and Thankyou for your support!">
-<text>Enjoy your stay, Ask questions, get involved with the communities and stay active! Sapphire UI is the community custom launcher powered by google exclusively for Android 5.0+</text>
+<text>Enjoy your stay, Ask questions, get involved with the communities and stay active!</text>
 <date>22 April 2016</date>
 <description/>
 <technical-details/>
