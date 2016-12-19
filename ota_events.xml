@@ -1,5 +1,13 @@
 <news>
   
+<newsitem headline="Happy Holidays">
+<text>A very Happy Holidays shoutout goes to you guys! Let 2017 welcome exciting new things!</text>
+<date>19 December 2016</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>  
+  
 <newsitem headline="Record Breaking Revenue">
 <text>You guys have broken the record of Premium license purchased for the month. This is excellent news! Keep it up! This revenue will be invested in upgraded equipment for my Android Workstation which desperately needs it for the new projects coming. Without these upgrades, these projects won't be possible. THANKYOU!</text>
 <date>5 December 2016</date>
@@ -16,22 +24,6 @@
 <image-url/>
 </newsitem>
   
-<newsitem headline="Wallpaper Patch">
-<text>Wallpapers should soon be working correctly in the cloud. A patch is currently being worked on from my end.</text>
-<date>5 December 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="Update 12.1">
-<text>The end of the year patch is currently in development. This update will fix a rotation bug reported by many, increase performance, higher resolution visuals for high end phones increased, visual changes to the launcher settings and a few extras. Updates will also feature less advancment after this update rolls out as well making this launcher nearing its Stable Branch. This is good and bad as updates will be less exciting and only provide security, performance and general patches. Good news is something special will be going in development soon. Stay tuned! Mid December this new update should be ready to roll out.</text>
-<date>5 December 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
 <newsitem headline="Holiday Sale!">
 <text>Premium and Onyx license are now on Sale through the month of December. This is your chance to lock yourself in to an array of premium projects I have to announce for 2017. Enjoy!</text>
 <date>5 December 2016</date>
