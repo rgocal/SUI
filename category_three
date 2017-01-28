@@ -1,0 +1,20 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_black_painting.png",
+			"name": "Black Painting"
+		},
+		{
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_blue_painting.png",
+			"name": "Blue Painting"
+		},
+		{
+			"author": "Sony",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_white_painting.png",
+			"name": "White Painting"
+		}
+	]
+}
