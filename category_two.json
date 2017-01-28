@@ -1,0 +1,20 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_1.png",
+			"name": "wallpaper_01"
+		},
+		{
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_2.png",
+			"name": "wallpaper_02"
+		},
+		{
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_3.png",
+			"name": "wallpaper_03"
+		}
+	]
+}
