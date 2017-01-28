@@ -1,0 +1,20 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "HTC",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_00.jpg",
+			"name": "wallpaper_00"
+		},
+		{
+			"author": "HTC",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_03.jpg",
+			"name": "wallpaper_01"
+		},
+		{
+			"author": "HTC",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/HTC/wallpapers_02.jpg",
+			"name": "wallpaper_02"
+		}
+	]
+}
