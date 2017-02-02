@@ -1,5 +1,21 @@
 <news>
   
+<newsitem headline="Launcher Sequel In Development">
+<text>Be sure to join the Google Plus group for news,  updates, and events of the upcoming 2017 project by GSD. Sapphyx Launcher coming in 2017.</text>
+<date>24 January 2017</date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>  
+  
+<newsitem headline="Purge Update">
+<text>Sapphire Launcher will be receiving the Purge update in early 2017. This update will focus on a few bugs found in Android N, fix a few issues regarding newer tweaks, a new launcher settings interface revamp and Google services fixes. More information coming soon as its available. </text>
+<date>24 January 2017 </date>
+<description/>
+<technical-details/>
+<image-url/>
+</newsitem>
+  
 <newsitem headline="Wanna Translate?">
 <text>If you are a user interested in contributing to the project by translating Sapphire Launcher for your locale, please contact me on Hangouts or the Google Plus Group. Also take a look at the Sapphire Github. https://github.com/rgocal/SUI </text>
 <date>30 October 2016</date>
@@ -7,49 +23,9 @@
 <technical-details/>
 <image-url/>
 </newsitem>
-  
-<newsitem headline="Progress Report!">
-<text>Be sure to update your reviews of Sapphire Launcher on Google Play reflecting your experience with the 12.00 update. Also report back any flaws, spelling errors or hickups you have encountered so a patch can be built. Tablet support is also important.</text>
-<date>30 October 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="Update 12.00 Available!">
-<text>You can grab the latest update for Sapphire Launcher now! https://play.google.com/store/apps/details?id=com.NxIndustries.Sapphire</text>
-<date>30 October 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-  
-<newsitem headline="New Wallpapers">
-<text>Check the archives this weekend for new wallpapers collected from the community. Community members are welcomed to submit their own!</text>
-<date>27 October 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="Update and Review Ratings">
-<text>Please take some time to update and review your rating on the latest version of Sapphire Launcher and any License you have purchased. Higher ratings get the launcher noticed, which increases user counts and revenue which increase the likely hood of bigger and better updates.</text>
-<date>12 September 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
-
-<newsitem headline="SUI Google Plus">
-<text>Join the Google Plus Group to get in on exclusive sneak peaks, dev previews, and one on one dev support!</text>
-<date>22 April 2016</date>
-<description/>
-<technical-details/>
-<image-url/>
-</newsitem>
 
 <newsitem headline="Welcome and Thankyou for your support!">
-<text>Enjoy your stay, Ask questions, get involved with the communities and stay active! Sapphire UI is the community custom launcher powered by google exclusively for Android 5.0+</text>
+<text>Enjoy your stay, Ask questions, get involved with the communities and stay active!</text>
 <date>22 April 2016</date>
 <description/>
 <technical-details/>

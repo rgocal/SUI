@@ -1,0 +1,55 @@
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_10.jpg",
+			"name": "Bionx Hand"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_11.jpg",
+			"name": "Lake Erie"
+		},
+		{
+			"author": "Unknown",
+			"url": "https://drive.google.com/file/d/0B5B4r0081LETNkRsWVI0M2RoYU0/view",
+			"name": "Florex"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_2.jpg",
+			"name": "Bionx 1st Gen"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_4.jpg",
+			"name": "Bionx Wall"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_6.jpg",
+			"name": "Bionx Nx"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_9.jpg",
+			"name": "Droid Ultima"
+		},
+		{
+			"author": "Motorola",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_8.jpg",
+			"name": "Droid 4"
+		},
+		{
+			"author": "HTC",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_7.jpg",
+			"name": "Droid DNA"
+		},
+		{
+			"author": "Ryan Gocal",
+			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/R_1.png",
+			"name": "Bionx Requiem"
+		}
+	]
+}
