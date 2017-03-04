@@ -2,24 +2,54 @@
 "wallpapers": 
 	[
 		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_black_painting.png",
-			"name": "Black Painting"
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_1.jpg",
+			"name": "Paper 1"
 		},
 		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_blue_painting.png",
-			"name": "Blue Painting"
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_2.jpg",
+			"name": "Paper 2"
 		},
 		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/Catalyst_Wallpapers/master/drawable-nodpi/wallpaper_18.jpg",
-			"name": "Xperia Z"
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_3.jpg",
+			"name": "Paper 3"
 		},
 		{
-			"author": "Sony",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Xperia/Xperia-X_Xperia_white_painting.png",
-			"name": "White Painting"
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_4.jpg",
+			"name": "Paper 4"
+		},
+		{
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_5.jpg",
+			"name": "Paper 5"
+		},
+		{
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_6.jpg",
+			"name": "Paper 6"
+		},
+		{
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_7.jpg",
+			"name": "Paper 7"
+		},
+		{
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_8.jpg",
+			"name": "Paper 8"
+		},
+		{
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_9.jpg",
+			"name": "Paper 9"
+		},
+		{
+			"author": "Space",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Space/wall_10.jpg",
+			"name": "Paper 10"
 		}
 	]
 }
