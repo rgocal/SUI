@@ -1,1 +1,55 @@
-
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_1.jpg",
+			"name": "wallpaper_1"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_2.jpg",
+			"name": "wallpaper_2"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_3.jpeg",
+			"name": "wallpaper_3"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_4.jpg",
+			"name": "wallpaper_4"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_5.jpg",
+			"name": "wallpaper_5"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_6.jpg",
+			"name": "wallpaper_6"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_7.jpg",
+			"name": "wallpaper_7"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_8.jpg",
+			"name": "wallpaper_8"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_9.jpg",
+			"name": "wallpaper_9"
+		},
+    {
+			"author": "Environments",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Environments/wall_10.jpg",
+			"name": "wallpaper_10"
+		}
+	]
+}
