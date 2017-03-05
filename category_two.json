@@ -2,19 +2,54 @@
 "wallpapers": 
 	[
 		{
-			"author": "Samsung",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_1.png",
-			"name": "wallpaper_01"
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_1.jpg",
+			"name": "Paper 1"
 		},
 		{
-			"author": "Samsung",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_2.png",
-			"name": "wallpaper_02"
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_2.png",
+			"name": "Paper 2"
 		},
 		{
-			"author": "Samsung",
-			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Samsung/wallpaper_3.jpg",
-			"name": "wallpaper_03"
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_3.jpg",
+			"name": "Paper 3"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_4.jpg",
+			"name": "Paper 4"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_5.jpg",
+			"name": "Paper 5"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_6.jpg",
+			"name": "Paper 6"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_7.png",
+			"name": "Paper 7"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_8.png",
+			"name": "Paper 8"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_9.png",
+			"name": "Paper 9"
+		},
+		{
+			"author": "Material",
+			"url": "https://raw.githubusercontent.com/rgocal/SUI/master/Wallpapers/Material/wall_10.jpg",
+			"name": "Paper 10"
 		}
 	]
 }
